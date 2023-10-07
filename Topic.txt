@@ -1,0 +1,2 @@
+Xây dựng mô hình shop bán sách gồm các chức năng: xem kho sách, bán sách, cho thuê sách, trả sách.
+sử dụngng Mysql để lưuu trữ dl.
